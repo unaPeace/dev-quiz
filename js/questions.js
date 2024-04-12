@@ -147,9 +147,14 @@ let questions = [
   },
   {
     numb: 16,
-    question: "Which tag is used to define a hyperlink in HTML?",
-    answer: "a",
-    options: ["link", "a", "href", "hyperlink"],
+    question: "What does the acronym API stand for?",
+    answer: "Application Programming Interface",
+    options: [
+      "Automated Programming Interface",
+      "Application Program Interface",
+      "Automated Program Integration",
+      "Application Programming Interface",
+    ],
   },
   {
     numb: 17,
