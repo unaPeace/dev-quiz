@@ -131,8 +131,8 @@ let questions = [
     numb: 14,
     question:
       "Which programming language is primarily used for building mobile applications?",
-    answer: "Java (Android) and Swift (iOS)",
-    options: ["Python", "Java (Android) and Swift (iOS)", "JavaScript", "C++"],
+    answer: "Java",
+    options: ["Python", "Java", "JavaScript", "C++"],
   },
   {
     numb: 15,
@@ -148,8 +148,8 @@ let questions = [
   {
     numb: 16,
     question: "Which tag is used to define a hyperlink in HTML?",
-    answer: "&lt;a&gt;",
-    options: ["&lt;link&gt;", "&lt;a&gt;", "&lt;href&gt;", "&lt;hyperlink&gt;"],
+    answer: "a",
+    options: ["link", "a", "href", "hyperlink"],
   },
   {
     numb: 17,
@@ -186,12 +186,12 @@ let questions = [
     numb: 20,
     question: "What is the purpose of the 'float' property in CSS?",
     answer:
-      "To specify whether an element should float to the left or right, or not at all",
+      "To determine whether an element should be positioned to the left or right side",
     options: [
       "To change the font size of the text",
       "To add shadows to elements",
       "To specify the color of the border",
-      "To specify whether an element should float to the left or right, or not at all",
+      "To determine whether an element should be positioned to the left or right side",
     ],
   },
 ];
